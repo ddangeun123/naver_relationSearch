@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-import uvicorn
 from crawler import Crawler
 
 app = FastAPI()
