@@ -1,6 +1,6 @@
 import requests
 import time
-from crawler import Crawler
+from scraper import Crawler
 
 def send_requests(base_url, keywords):
     result = []
